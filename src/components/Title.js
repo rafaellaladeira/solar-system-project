@@ -12,6 +12,6 @@ class Title extends React.Component {
 
 export default Title;
 
-Title.propTypes = { // "is missing in props validation"
+Title.propTypes = {
   headline: PropTypes.string.isRequired,
 };
