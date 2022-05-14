@@ -1,6 +1,6 @@
 # solar-system-project
 
-Este foi o primeiro projeto do módulo de Front-end. 
+Este foi o primeiro projeto do módulo de Front-end da Trybe.
 Neste projeto foi desenvolvido uma aplicação em React com criação de componentes de classe e passagem de props. O objetivo dessa aplicação era simular uma visualização do sistema solar, além de informações sobre algumas missões espaciais que ocorreram ao longo da história.
 
 
